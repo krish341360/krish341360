@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krish341360
-- 👀 I’m interested in ... App and Web development 
+- 👀 I’m interested in ... AI/ML
 - 🌱 I’m currently learning ... Artificial intelligence and machine learning 
 - 📫 How to reach me ... krish341360@gmail.com
 
